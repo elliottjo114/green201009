@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>center/notice</title>
+<title>center/notice변경변경변역</title>
 </head>
 <body>
 <table border="">
